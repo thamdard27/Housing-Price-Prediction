@@ -16,7 +16,7 @@ The goal is to compare multiple predictive models and identify the most accurate
 
 ## Dataset Overview
 
-* **Source:** Kaggle — Ames Housing Prices Dataset
+* **Source:** Kaggle — Ames Housing Prices Dataset "https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques"
 * **Total Records:** 1,460
 * **Predictors:** 80 total variables (numeric, categorical, and ordinal)
 * **Target Variable:** `SalePrice`

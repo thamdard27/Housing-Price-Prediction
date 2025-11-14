@@ -8,9 +8,9 @@ The goal is to compare multiple predictive models and identify the most accurate
 
 ## Project Files
 
-* **codes_housingpriceprediction.ipynb** — All preprocessing, feature engineering, model training, tuning, and evaluation (using R code inside a notebook environment).
-* **housing_price_prediction.pdf** — Full written report summarizing methodology and results.
-* **Appendices.pdf** — Supplemental model plots, tuning graphs, and variable importance figures.
+* **R_code_Housing_Prices.ipynb** — All preprocessing, feature engineering, model training, tuning, and evaluation (using R code inside a notebook environment).
+* **Predicting Housing Prices Using the Ames Housing** — Full written report summarizing methodology and results.
+* **Appendicitis.pdf** — Supplemental model plots, tuning graphs, and variable importance figures.
 
 ---
 
